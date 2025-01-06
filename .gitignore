@@ -1,0 +1,24 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Core https certificate
+httpscert.pfx
+
+# Rider specific files
+.idea/
+
+# JetBrains Rider configuration
+.idea/
+
+# Build directories
+out/
